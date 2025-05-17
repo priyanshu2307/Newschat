@@ -1,0 +1,17 @@
+#Python
+__pycache__/
+*.pyc 
+*.pyo 
+*.pyd
+*.sqlite3
+*.db
+
+#Virtual Environment
+venv/
+env/
+
+#Environment variables
+.env 
+
+#node modues(for frontend)
+frontend/node_modules/
